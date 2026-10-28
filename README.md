@@ -1,11 +1,6 @@
 # IronPulse Fitness - Website
 
-live URL 
-https://ironpulse-fitness-rho.vercel.app/
-
-Client project for ApnoAI internship. A responsive one-page website for a gym.
-
-**Live site:** (add your Vercel link)
+**Live site:** https://ironpulse-fitness-rho.vercel.app/
 **Tech:** HTML, CSS, JavaScript (no frameworks)
 
 ## Features
